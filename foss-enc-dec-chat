@@ -1,0 +1,21 @@
+Project Topic:  While we have not firmly settled on a project topic at this time, 
+                we are investigating the feasibility of designing an encrypted,
+                decentralized FOSS chat/messaging system.
+                
+Existing Team:  Josh Bridges (jbridg12)
+                Joshua D. Dalton (jdalton6)
+                Trés James (tjames17)
+                
+Need Members?:  We are open to adding a fourth member.
+
+Technologies :  We are investigating the use of EOS blockchain technology to act as
+                a decentralized foundation upon which to build the main software
+                application.  Early efforts will mostly depend on gpg/openssl/etc.
+                libraries for encryption.  If time allows, we may delve into more
+                sophisticated implementations.  Currently, we are planning on dev-
+                eloping this project in C/C++.  However, as the project is tent-
+                ative at this time, the group has also expressed interest in ex-
+                ploring other programming languages, as well.  Should time allow,
+                alternative languages may be explored in application to this
+                project or become a more central focus should we determine that
+                the current project idea is not feasible.
