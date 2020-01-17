@@ -1,5 +1,5 @@
 We want to build a web-based personnel management system that can handle attendance/event tracking, 
-mass emai, and other administrative features.
+mass email, and other administrative features.
 
 
 Current team members:
