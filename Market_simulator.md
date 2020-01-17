@@ -4,4 +4,4 @@ Zachary Ables, Omar Iqbal, Logan Courtney
 
 We do not need new members
 
-We might use Unity, github, vim
+We might use Unity, vim, VS
