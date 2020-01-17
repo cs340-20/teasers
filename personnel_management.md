@@ -7,6 +7,6 @@ Alex Whitaker
 Cainan Howard
 Sammy Awad
 
-Need a 4th team member
+Could use a 4th team member
 
 We will be using SQL for database management, HTML/PHP/Javascript for web-service development
