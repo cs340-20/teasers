@@ -13,7 +13,7 @@ Full proposal preparation will be discussed on Wed and the prropsals will be due
 Classtime on Jan 22, 24, and 27 will be devoted to the team getting together and writing the 
 proposal: please be there!
 
-### [Instructions for *Full Proposals*](https://github.com/cs340-20/proposals/blob/master/project_proposal.pdf)
+### [Instructions for *Full Proposals*](https://github.com/cs340-20/teasers/blob/master/project_proposal.pdf)
 
 Heading: Title, Team Name, Team Members
 
